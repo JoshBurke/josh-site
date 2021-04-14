@@ -1,0 +1,96 @@
+.resume {
+  text-align: center;
+  font: 20px 'Source Sans Pro', sans-serif;
+  color: black;
+  text-shadow: 10px;
+}
+
+.name {
+  padding-top: 10%;
+  padding-left: 3%;
+  font: 100px 'Source Code Pro', monospace;
+  -webkit-text-stroke: 3px black;
+  color: white;
+  text-shadow:
+      5px 5px 0 #000,
+    -1px -1px 0 #000,  
+     1px -1px 0 #000,
+     -1px 1px 0 #000,
+      1px 1px 0 #000;
+}
+
+.contactLine {
+  padding-bottom: 20%;
+  font-size: 30px;
+  padding-left: 2%;
+  color: white;
+  text-shadow:
+      3px 3px 0 #000,
+    -1px -1px 0 #000,  
+     1px -1px 0 #000,
+     -1px 1px 0 #000,
+      1px 1px 0 #000;
+}
+
+h1 {
+  margin: 0;
+}
+
+p {
+  padding: 0px 0px;
+}
+
+.aboutSleeve {
+  background-color:navy;
+  padding: 5px 0px 0px 5px;
+}
+
+.about {
+  padding: 40px 5px 40px 5px;
+  background-color: #9999BB;
+  font-size: 20px;
+}
+
+.educationSleeve {
+  background-color:navy;
+  padding: 5px 0px 0px 5px;
+}
+
+.education {
+  padding: 40px 5px 40px 5px;
+  background-color: #9999BB;
+  font-size: 20px;
+}
+
+.skillsSleeve {
+  background-color:navy;
+  padding: 5px 0px 0px 5px;
+}
+
+.skills {
+  padding: 40px 5px 40px 5px;
+  background-color: #9999BB;
+  font-size: 20px;
+}
+
+.careerSleeve {
+  background-color:navy;
+  padding: 5px 0px 0px 5px;
+}
+
+.career {
+  padding: 40px 5px 40px 5px;
+  background-color: #9999BB;
+  font-size: 20px;
+}
+
+.projectsSleeve {
+  background-color:navy;
+  padding: 5px 0px 0px 5px;
+}
+
+.projects {
+  padding: 40px 5px 40px 5px;
+  background-color: #9999BB;
+  font-size: 20px;
+}
